@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkFleck11
-- 👀 I’m interested in building an electron app with vue js, java, and AWS
+- 👀 I’m interested in building anything that helps solve a problem for people
 - 🌱 I’m currently learning about electron development and working on AWS certifications
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me markstinyprojects@gmail.com
